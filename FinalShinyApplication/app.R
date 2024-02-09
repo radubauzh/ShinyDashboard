@@ -1,4 +1,5 @@
-# README: You will find the Package here: https://github.com/radubauzh
+# README: You will find the R Package here: 
+# - https://github.com/radubauzh
 # I will take it down / make it private later
 
 # Install remotes packages
